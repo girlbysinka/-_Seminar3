@@ -1,0 +1,16 @@
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\obj\Debug\net6.0\task18.GlobalUsings.g.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\obj\Debug\net6.0\task18.csproj.AssemblyReference.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\obj\Debug\net6.0\task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\obj\Debug\net6.0\task18.AssemblyInfoInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\obj\Debug\net6.0\task18.AssemblyInfo.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\obj\Debug\net6.0\task18.csproj.CoreCompileInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\bin\Debug\net6.0\task18.exe
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\bin\Debug\net6.0\task18.deps.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\bin\Debug\net6.0\task18.runtimeconfig.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\bin\Debug\net6.0\task18.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\bin\Debug\net6.0\ref\task18.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\bin\Debug\net6.0\task18.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\obj\Debug\net6.0\task18.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\obj\Debug\net6.0\ref\task18.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\obj\Debug\net6.0\task18.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task18\obj\Debug\net6.0\task18.genruntimeconfig.cache
