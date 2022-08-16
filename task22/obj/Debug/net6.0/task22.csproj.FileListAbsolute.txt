@@ -1,0 +1,16 @@
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\bin\Debug\net6.0\task22.exe
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\bin\Debug\net6.0\task22.deps.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\bin\Debug\net6.0\task22.runtimeconfig.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\bin\Debug\net6.0\task22.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\bin\Debug\net6.0\ref\task22.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\bin\Debug\net6.0\task22.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\obj\Debug\net6.0\task22.GlobalUsings.g.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\obj\Debug\net6.0\task22.csproj.AssemblyReference.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\obj\Debug\net6.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\obj\Debug\net6.0\task22.AssemblyInfoInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\obj\Debug\net6.0\task22.AssemblyInfo.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\obj\Debug\net6.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\obj\Debug\net6.0\task22.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\obj\Debug\net6.0\ref\task22.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\obj\Debug\net6.0\task22.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\task22\obj\Debug\net6.0\task22.genruntimeconfig.cache
