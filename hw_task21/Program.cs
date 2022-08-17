@@ -7,34 +7,42 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 */
 Console.Clear();
 
-int userAx = 0;
-int userAy = 0;
-int userAz = 0;
+Console.WriteLine("Введите координаты точки A");
+int userAx = PrintX ();
+int userAy = PrintY ();
+int userAz = PrintZ ();
 
-int userBx = 0;
-int userBy = 0;
-int userBz = 0;
-
-Console.WriteLine("Введите координату X точки A:");
-userAx = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Введите координату Y точки A:");
-userAy = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Введите координату Z точки A:");
-userAz = Convert.ToInt32(Console.ReadLine());
-
-
-
-Console.WriteLine("Введите координату X точки B:");
-userBx = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Введите координату Y точки B:");
-userBy = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Введите координату Z точки B:");
-userBz = Convert.ToInt32(Console.ReadLine());
-
+Console.WriteLine();
+Console.WriteLine("Введите координаты точки B");
+int userBx = PrintX ();
+int userBy = PrintY ();
+int userBz = PrintZ ();
 
 double distance = Math.Sqrt(Math.Pow((userBx - userAx), 2) + Math.Pow((userBy - userAy), 2) + Math.Pow((userBz - userAz), 2));
 Console.WriteLine($"Расстояние между точками A и B составляет {distance}");
+
+
+
+int PrintX ()
+    {
+        int userX = new int ();
+        Console.WriteLine("Введите координату X:");
+        userX = Convert.ToInt32(Console.ReadLine());
+        return userX;
+    }
+
+int PrintY ()
+    {
+        int userY = new int ();
+        Console.WriteLine("Введите координату Y:");
+        userY = Convert.ToInt32(Console.ReadLine());
+        return userY;
+    }
+
+int PrintZ ()
+    {
+        int userZ = new int ();
+        Console.WriteLine("Введите координату Z:");
+        userZ = Convert.ToInt32(Console.ReadLine());
+        return userZ;
+    }
