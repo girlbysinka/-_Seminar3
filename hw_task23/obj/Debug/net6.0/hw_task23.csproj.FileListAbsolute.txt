@@ -1,0 +1,16 @@
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\bin\Debug\net6.0\hw_task23.exe
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\bin\Debug\net6.0\hw_task23.deps.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\bin\Debug\net6.0\hw_task23.runtimeconfig.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\bin\Debug\net6.0\hw_task23.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\bin\Debug\net6.0\ref\hw_task23.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\bin\Debug\net6.0\hw_task23.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\obj\Debug\net6.0\hw_task23.GlobalUsings.g.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\obj\Debug\net6.0\hw_task23.csproj.AssemblyReference.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\obj\Debug\net6.0\hw_task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\obj\Debug\net6.0\hw_task23.AssemblyInfoInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\obj\Debug\net6.0\hw_task23.AssemblyInfo.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\obj\Debug\net6.0\hw_task23.csproj.CoreCompileInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\obj\Debug\net6.0\hw_task23.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\obj\Debug\net6.0\ref\hw_task23.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\obj\Debug\net6.0\hw_task23.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\С#_Seminar3\hw_task23\obj\Debug\net6.0\hw_task23.genruntimeconfig.cache
